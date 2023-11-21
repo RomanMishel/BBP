@@ -1,0 +1,20 @@
+hyatt.com (no additional subdomains unless explicitly mentioned).
+140.95.0.0/16.
+213.139.133.32/28.
+assets.hyatt.com.
+confluence.hyattdev.com.
+ebsext.oft.hyatt.com.
+jira.hyattdev.com.
+meetings.hyatt.com.
+mobileapp.hyatt.com.
+newsroom.images.hyatt.com (not newsroom.hyatt.com).
+plannerrequest.hyatt.com.
+public.hyatt.com.
+roominglist.hyatt.com.
+salesportal.hyatt.com.
+soaext.oft.hyatt.com.
+sso.oft.hyatt.com.
+upsell.hyatt.com.
+world.hyatt.com.
+www.hyatt.com.
+www.hyattconnect.com.
